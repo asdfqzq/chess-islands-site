@@ -8,5 +8,5 @@ tags: ["engine", "AWS"]
 Now present at the end of every game, and also for every analysis island that is created. Powered by AWS.
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure src="/img/UpdatePics/GameReview.jpg" title="Image title" >}}
+  {{< figure src="/img/UpdatePics/GameReview.jpg" title="Game Review" >}}
 {{< /gallery >}}
