@@ -1,4 +1,4 @@
-module github.com/asdfqzq/testhugosite
+module github.com/asdfqzq/chess-islands-site
 
 go 1.25.0
 
