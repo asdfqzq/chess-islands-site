@@ -1,4 +1,4 @@
-baseurl = "https://zingy-liger-eb7324.netlify.app/"
+baseurl = "https://zingy-liger-eb7324.netlify.app"
 DefaultContentLanguage = "en"
 title = "Chess Islands"
 # Using theme as git submodule
