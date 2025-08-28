@@ -1,7 +1,6 @@
 ---
 title: Tutorials in 3D form
 date: 2025-08-04
-tags: ["arrows", "drawing"]
 ---
 
 Tutorials were previously only in 2D; now, they may also be viewed in 3D in the form of interactable islands. With the transition from UI to islands also comes additional effects and animations incorporated throughout the tutorial playthrough content.

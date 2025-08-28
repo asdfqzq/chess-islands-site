@@ -28,8 +28,8 @@ pygmentsCodefencesGuessSyntax = true
   commit = false
   rss = true
   comments = true
-  readingTime = true
-  wordCount = true
+  readingTime = false
+  wordCount = false
   useHLJS = true
   socialShare = true
   delayDisqus = true
@@ -41,7 +41,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [[Params.bigimg]]
  src = "img/thumbnail-dark.jpg"
- desc = "Thumbnail for Chess Islands"
+ desc = "Game Thumbnail"
 # [[Params.bigimg]]
 #  src = "img/sphere.jpg"
 #  desc = "Sphere"

@@ -1,6 +1,7 @@
 ---
 title: Added 2D view
 date: 2025-07-07
+tags: ["AWS"]
 ---
 
 Present at the end of every game, and also for every analysis island that is created. Annotates every move made in a game with one of the following five categorizations:

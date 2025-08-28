@@ -1,7 +1,7 @@
 ---
 title: Implemented Game Review
 date: 2025-05-14
-tags: ["engine", "AWS"]
+tags: ["AWS"]
 ---
 
 Present at the end of every game, and also for every analysis island that is created. Annotates every move made in a game with one of the following five categorizations:
