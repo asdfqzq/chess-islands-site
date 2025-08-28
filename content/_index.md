@@ -1,8 +1,10 @@
 ## Feature-packed
 - 🏝️ Vibrant 3D environment with a variety of different types of islands and games.
-- 🎨 Whopping 12 different gamemodes.
-- 🖼️ Express yourself by customizing your pieces and islands.
+- 🎨 Whopping 12 different chess gamemodes.
+- 🖼️ Customizability via pieces, islands, and just about every setting imaginable.
 - 📺 Live broadcasts of the top games.
-- ⚔️ Leaderboards and matchmaking across servers.
-- 📚 All your games are saved to your profile for you to analyze.
-- 🔧 No chess feature has been left out — premoves, underpromotions, takebacks, arrows on boards, threefold repetition, PGN; anything you can name!
+- ⚔️ Leaderboards and cross-server matchmaking.
+- 📚 All games saved to profile for later analyzing.
+
+## Currently in development
+Expected to be released within 2025-2026. Shown below is a small portion of the project's development log.

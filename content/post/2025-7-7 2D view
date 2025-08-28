@@ -1,0 +1,18 @@
+---
+title: Added 2D view
+date: 2025-07-07
+---
+
+Present at the end of every game, and also for every analysis island that is created. Annotates every move made in a game with one of the following five categorizations:
+- Excellent
+- Good
+- Inaccuracy
+- Mistake
+- Blunder
+
+The move-categorization engine is run on AWS.
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure src="/img/UpdatePics/2dview.png" title="2D view of puzzle island" >}}
+
+{{< /gallery >}}
